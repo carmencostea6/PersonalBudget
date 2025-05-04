@@ -1,0 +1,42 @@
+[
+  {
+    "tip": "venit",
+    "suma": 2000.0,
+    "moneda": "RON",
+    "categorie": "Burs\u0103",
+    "descriere": "-",
+    "data": "2025-05-04"
+  },
+  {
+    "tip": "cheltuiala",
+    "suma": 500.0,
+    "moneda": "EUR",
+    "categorie": "Vacan\u021b\u0103",
+    "descriere": "spaniaaa",
+    "data": "2025-05-04"
+  },
+  {
+    "tip": "venit",
+    "suma": 500.0,
+    "moneda": "",
+    "categorie": "Cadou",
+    "descriere": "sugar daddy",
+    "data": "2025-05-04"
+  },
+  {
+    "tip": "venit",
+    "suma": 40000.0,
+    "moneda": "USD",
+    "categorie": "Altele",
+    "descriere": "nu e treaba voastra",
+    "data": "2025-05-04"
+  },
+  {
+    "tip": "venit",
+    "suma": 500.0,
+    "moneda": "USD",
+    "categorie": "Cadou",
+    "descriere": "de la mamaia",
+    "data": "2025-05-04"
+  }
+]
